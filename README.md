@@ -3,4 +3,6 @@
 - 🌱 I’m currently learning Java and Swedish
 - 📫 @albertmods on Twitter
 
-https://github-readme-stats.vercel.app/api?username=AlbertsMods&show_icons=true&theme=vue-dark%22%3E
+<a href="https://github-readme-stats.vercel.app/api?username=AlbertsMods&show_icons=true&theme=vue-dark%22%3E">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlbertsMods&show_icons=true&include_all_commits=true&count_private=true&theme=react" />
+</a>
